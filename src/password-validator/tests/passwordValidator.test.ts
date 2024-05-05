@@ -1,5 +1,4 @@
 import {PasswordValidator} from "../passwordValidator";
-import {Result} from "../passwordValidator";
 
 describe("Password validator", () => {
     let passwordValidator: PasswordValidator;
